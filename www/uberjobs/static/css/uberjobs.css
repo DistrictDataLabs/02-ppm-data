@@ -1,0 +1,23 @@
+.img-responsive {
+    margin: 0 auto;
+}
+
+.carous-item {
+    padding: 5em;
+}
+
+.carousel-control {
+    color: #C36E6E;
+}
+
+.carousel-control.right {
+    background-image: none;
+}
+
+.carousel-control.left {
+    background-image: none;
+}
+
+.panel {
+    max-width: 30em;
+}
